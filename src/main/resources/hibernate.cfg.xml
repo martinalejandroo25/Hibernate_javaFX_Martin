@@ -10,7 +10,6 @@
         <property name="hibernate.connection.password"></property>
         <property name="hibernate.hbm2ddl.auto">update</property>
         <property name="hibernate.show_sql">true</property>
-        <!-- Add your annotated classes here -->
         <mapping class="com.example.hibernate_javafx_martin.models.Jugador"/>
         <mapping class="com.example.hibernate_javafx_martin.models.Juego"/>
         <mapping class="com.example.hibernate_javafx_martin.models.Partida"/>

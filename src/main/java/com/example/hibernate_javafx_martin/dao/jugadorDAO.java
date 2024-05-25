@@ -1,4 +1,10 @@
 package com.example.hibernate_javafx_martin.dao;
 
-public class jugadorDAO {
+import com.example.hibernate_javafx_martin.models.Jugador;
+
+public class jugadorDAO extends BaseDAOImpl<Jugador> {
+    public jugadorDAO() {
+        super(Jugador.class);
+    }
+
 }

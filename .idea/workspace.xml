@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25fd78c8-8adf-46da-bfcd-40a76af84de4" name="Changes" comment="estructura inicial del juego" />
+    <list default="true" id="25fd78c8-8adf-46da-bfcd-40a76af84de4" name="Changes" comment="Proyecto JavaFX" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,12 +14,27 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "martinalejandroo25"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="b75581e9-07e9-4125-a0fa-7fbbcc6f035d" />
+        <option name="url" value="https://github.com/martinalejandroo25/Hibernate_javaFX_Martin" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -39,6 +54,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.App.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -80,6 +96,7 @@
       <workItem from="1716221446653" duration="2452000" />
       <workItem from="1716224269522" duration="418000" />
       <workItem from="1716314864725" duration="4386000" />
+      <workItem from="1716554432373" duration="8785000" />
     </task>
     <task id="LOCAL-00001" summary="estructura inicial del juego">
       <option name="closed" value="true" />
